@@ -4,7 +4,7 @@
 ใช้เวลาประมาณ 5 นาที ไม่ต้องใช้คอม
 
 **ต้องมี**
-- มือถือ Android ที่ลงแอป **ซับไทยขึ้นทีวี** แล้ว ([โหลดแอปที่นี่](https://github.com/Jericho-Missile/thaisub-tv/releases/latest))
+- มือถือ Android ที่ลงแอป **ซับไทยขึ้นทีวี** แล้ว ([โหลดแอปที่นี่](https://github.com/Jericho-Missile/thaisub-tv/releases/latest) · [วิธีลงแบบมีรูป](../phone/install.md))
 - ทีวีกับมือถือต่อ **WiFi วงเดียวกัน**
 - PS5 เสียบสาย HDMI เข้าทีวี
 

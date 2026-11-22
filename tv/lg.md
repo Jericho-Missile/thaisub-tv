@@ -6,7 +6,7 @@
 > **ยังอยู่ช่วงทดลอง:** แอปซับไทยขึ้นทีวีเชื่อมต่อแบบเดียวกับที่แอป LG ต้องการ แต่ยังไม่มีคนในกลุ่มลองกับทีวี LG จริงครบทุกขั้น ถ้าติดขั้นไหน โพสต์ถามในกลุ่มพร้อมรูปหน้าจอได้เลย
 
 **ต้องมี**
-- มือถือ Android ที่ลงแอป **ซับไทยขึ้นทีวี** แล้ว ([โหลดแอปที่นี่](https://github.com/Jericho-Missile/thaisub-tv/releases/latest))
+- มือถือ Android ที่ลงแอป **ซับไทยขึ้นทีวี** แล้ว ([โหลดแอปที่นี่](https://github.com/Jericho-Missile/thaisub-tv/releases/latest) · [วิธีลงแบบมีรูป](../phone/install.md))
 - **บัญชีนักพัฒนา LG** (สมัครฟรีที่ [webostv.developer.lge.com](https://webostv.developer.lge.com))
 - ทีวีกับมือถือต่อ **WiFi วงเดียวกัน**
 - PS5 เสียบสาย HDMI เข้าทีวี
